@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>Site LUCZINNx</title>
+
+    </head>
+
+    <body>
+        <h1>Site <u>LUCZINNx</u></h1>
+        <img src="imagens/chifuyu.png" width="120" height="120"
+        title="Chifuyu-san" alt="Chifuyu-san"
+        style="border:2px solid #000; margin-bottom:10px;"
+        >
+
+        <h2>Redes Sociais:</h2>
+
+        <img src="imagens/download-removebg-preview (1).png" 
+        title="Facebook" width="30">
+
+        <img src="imagens/instagram.png"
+        title="Instagram"
+        style="margin-left: 20px"
+        width="30">
+        
+        <img src="imagens/github.png" 
+        title="GitHub"
+        style="margin-left: 20px"
+        width="31">
+        <p>&nbsp;  <u>Facebook.</u></p>
+        <p>&nbsp; &nbsp; &nbsp; <u>Instagram.</u></p>
+        <p>&nbsp; &nbsp; &nbsp; <u>GitHub.</u></p>
+    </body>
+    
+</html>
