@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR" >
+    <head>
+        <title>O que aprendi até agora</title>
+        <meta charset="utf-8">
+        <style>
+            body {
+                background-image: url(imagens/uuu.jpg);
+            }
+
+            .font {
+                font-family: sans-serif;
+                color:rgb(201, 227, 250)
+                
+            }
+
+            .cor {
+                color: rgb(182, 217, 248)
+            }
+
+            li {
+               list-style-type: circle;
+               color: rgb(182, 217, 248)
+            }
+
+            img {
+                float: right;
+                border: solid 2px blue;
+            } 
+            
+        </style>
+        
+    </head>
+    <body>
+        <img src="imagens/eu.jpeg" 
+        style="width: 150px; height: 200px; ">
+
+        <h3 style ="clear: right; 
+        float: right; margin-right: 14px; margin-top: 10px;" class="font">Criador do Site</figcaption>
+
+        <h1 class="font">Olá, Bem-Vindo ao meu site :)</h1>
+        <h2 class="font">Esse site tem o intuito de praticar progamação</h2>
+
+        <p class="cor">Olá, meu Nome é Lucas Gabriel, 
+        tenho 14 anos e moro no Rio Grande do Norte,
+        <br>Recentemente voltei a Progamar pois já estava com saudades :D</p>
+
+        <h2 class="font">O que você aprendeu até agora?</h2>
+
+        <h4 class="font">Bom, aí vai uma lista do que Aprendi(ou aprenderei):</h4>
+        
+        <ol>
+            <li><u>HTML5</u> (Básico);</li>
+            <li><u>CSS</u> (+ou-);</li>
+            <li><u>BootStrap</u> (Para Aprender);</li>
+            <li><u>Node.Js</u> (Para Aprender);</li>
+            <li><u>JavaScript</u> (Super Básico).</li>
+        </ol>
+
+        <h4 class="font">Uma mini bio minha:</h4>
+
+        <ol>
+            <li><b>Nome:</b><u>Lucas Gabriel(LUCZINNx);</u></li>
+            <li><b>Idade:</b><u>14 anos;</u></li>
+            <li><b>Hobby:</b><u>Progamação e Design;</u></li>
+            <li><b>Estuda no:</b><u>Ana Júlia;</u></li>
+            <li><b>Série:</b><u>1º Ano Ensino Médio.</u></li>
+        </ol>
+    </body>
+</html>
